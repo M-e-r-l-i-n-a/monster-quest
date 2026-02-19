@@ -1,0 +1,34 @@
+# Dependencies & Build
+node_modules/
+dist/
+dist-ssr/
+.cache/
+
+# Environment & Secrets
+.env
+.env.*
+*.local
+env.local
+env.*.local
+!.env.example
+
+# Logs, PIDs & Diagnostics
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+*.pid.loc
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Tooling, Caches & Misc
+.npm/
+.eslintcache
+.stylelintcache
+.node_repl_history
+*.tsbuildinfo
+typings/
+
+# Vite Specific
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
