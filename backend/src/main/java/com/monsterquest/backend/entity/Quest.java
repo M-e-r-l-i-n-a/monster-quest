@@ -1,4 +1,4 @@
-package com.monsterquest.backend.models;
+package com.monsterquest.backend.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
