@@ -4,14 +4,6 @@ dist/
 dist-ssr/
 .cache/
 
-# Environment & Secrets
-.env
-.env.*
-*.local
-env.local
-env.*.local
-!.env.example
-
 # Logs, PIDs & Diagnostics
 *.log
 npm-debug.log*
